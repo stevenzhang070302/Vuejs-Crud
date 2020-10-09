@@ -7,6 +7,8 @@ index.php contains the vue.js and front-end code for this website.
 
 db.php contains the intial setup for connecting the code to the pgSQL database.
 
+# Demo Images
+
 ![sample_1](https://github.com/stevenzhang070302/Vuejs-Crud/blob/master/crud_1.PNG?raw=true)
 
 ![sample_2](https://github.com/stevenzhang070302/Vuejs-Crud/blob/master/crud_2.PNG?raw=true)
